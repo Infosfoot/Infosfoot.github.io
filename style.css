@@ -52,7 +52,7 @@ nav {
 /* ******************* IMAGE PRINCIPALE ********************* */
 #BanierePrincipale {
     padding-top: 60px;
-    background: url(media/banniere\ convertie\ 2.png) no-repeat fixed 50% 50%;
+    background: url(media/banniere\ convertie\ 2.png);
     background-size: cover;
     height: 799px;
   }
